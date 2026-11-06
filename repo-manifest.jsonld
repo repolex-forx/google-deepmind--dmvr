@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/google-deepmind/dmvr",
+  "@type": "gh:Repository",
+  "gh:name": "dmvr",
+  "gh:owner": "google-deepmind",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/google-deepmind/dmvr/commit/77ccedaa084d29239eaeafddb0b2e83843b613a1",
+      "git:hexsha": "77ccedaa084d29239eaeafddb0b2e83843b613a1",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
