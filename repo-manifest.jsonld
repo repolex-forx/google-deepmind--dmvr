@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/dmvr/commit/77ccedaa084d29239eaeafddb0b2e83843b613a1",
       "git:hexsha": "77ccedaa084d29239eaeafddb0b2e83843b613a1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T09:01:57.942544+00:00"
     }
   ]
 }
